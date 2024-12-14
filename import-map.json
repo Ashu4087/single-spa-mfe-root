@@ -1,0 +1,6 @@
+{
+    "imports": {
+        "@org/root-config": "http://localhost:5000/org-root-config.js",
+        "@org/home-app": "http://localhost:5000/org-home-app.js"
+    }
+}
